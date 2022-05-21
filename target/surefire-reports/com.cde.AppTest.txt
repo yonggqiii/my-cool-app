@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.cde.AppTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.057 s <<< FAILURE! - in com.cde.AppTest
+getPersonTest(com.cde.AppTest)  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.AssertionError: this should be alice
+	at com.cde.AppTest.getPersonTest(AppTest.java:23)
+
